@@ -15,3 +15,6 @@ Edit android/app/build.gradle ( NOT android/build.gradle ) and add the following
 
 - npm start
 - npm run android
+
+### Screens
+![login](https://github.com/0xvjay/HRMS/blob/main/images/1.png)
